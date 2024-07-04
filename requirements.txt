@@ -1,3 +1,7 @@
 pypdf
 langchain
 chromadb # Vector storage
+streamlit
+sentence-transformers
+numpy
+langchain-huggingface
